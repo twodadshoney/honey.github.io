@@ -1,15 +1,12 @@
-<!DOCTYPE html>
-echo "# honey" >> README.md
+ <input type="hidden"> echo "# honey" >> README.md
 git init
-git add README.md
-git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/twodadshoney/honey.git
-git push -u origin main
+git push -u origin main<!DOCTYPE html> <input type="hidden">
+
 <html>
 <head>
 <h1 style="background-color:#fdc407;">
-<title>CSS Template</title>
 <Body>   
 <nav>  
 <ul>  
@@ -34,7 +31,7 @@ You are at two dads honey.....
 
 <h1 style="background-color:#fdc407;">
 
-<style> body { border: solid 5px;} </style>
+
 
 
 
@@ -80,7 +77,7 @@ You are at two dads honey.....
 <article>
     <h1>NATIVE BEES TO QUEENSLAND</h1>
 
-    <h2>native bees to queensland.</h2>
+  <p> native bees to qld </p>
 <P> Most of these bees are all in queensland and some are just found in qld and not in any other sates or countrys</P>
 <ul>
 <li> Domino cuckoo bee</li>
@@ -97,7 +94,7 @@ You are at two dads honey.....
 <li> Delicate masked bee</li>
 </ul>
 </body>
-<p><img src=�documents/nbq.jpg�>
+<p><img src=documents/nbq.jpg>
 "native bees of queensland"</p>
 <body>
 <ul>
@@ -128,9 +125,7 @@ You are at two dads honey.....
 
  <article>
     <h1>SALES</h1>
-
-    <p> these are our sales that you can't pass </p>
-
+  <p> these sales you cant past </p>
 
 <p> 500g of honey- $6.50</p>
 <p> 1kg  of honey- $12</P>
