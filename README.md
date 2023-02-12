@@ -3,6 +3,7 @@ git init
 git branch -M main
 git remote add origin https://github.com/twodadshoney/honey.git
 git push -u origin main<!DOCTYPE html> <input type="hidden">
+<p> sorry for this i will work on it going away </p>
 
 <html>
 <head>
